@@ -1554,7 +1554,8 @@ while running:
         play_sound()
         now = pygame.time.get_ticks()
         elapsed_time = now - start_time
-        sound = pygame.mixer.Sound(f"{ability}")
+        if ability != None:
+            sound = pygame.mixer.Sound(f"{ability}")
         if elapsed_time >= 1300:
             start_now = True
         if not start_now:
