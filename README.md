@@ -1,0 +1,18 @@
+# Introduction
+- Click Kirby To Gain Money
+- Go To The Arena To Level Up Your Pro Pass Level
+- Seasons Change Some Time!
+- To Change Your Name : Click Your Name Box
+- Allies Help You! Get Them In The Pro Pass!
+- Buy Diffrent Kirbys At The Shop!
+- Buy Sound Effects At The Ability Shop
+- No Writing Bad Names!
+- To See Updates, Click the Update Log Button
+- To Exit Some Pages, Click The Exit Button
+- To Upgrade Your Click Power, Press S
+- Dont Delete The Code! It Was Hard Work!
+- To Buy Seasonal Kirbys, If There Is A Season, Click THe Season BUtton(It will say the season name)
+- Send A Comment To Me If You Are Playing!
+- Rate My Game something/10(IN COMMENT)
+- If The Story Palace Shows Nothing, YOu Better Get To Max Level In Pro Pass!
+- Hope U Like My Kirby Game! See U!
