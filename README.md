@@ -11,7 +11,7 @@
 - To Exit Some Pages, Click The Exit Button
 - To Upgrade Your Click Power, Press S
 - Dont Delete The Code! It Was Hard Work!
-- To Buy Seasonal Kirbys, If There Is A Season, Click THe Season BUtton(It will say the season name)
+- To Buy Seasonal Kirbys, If There Is A Season, Click The Season Button(It will say the season name)
 - Send A Comment To Me If You Are Playing!
 - Rate My Game something/10(IN COMMENT)
 - If The Story Palace Shows Nothing, YOu Better Get To Max Level In Pro Pass!
